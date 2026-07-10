@@ -1,0 +1,20 @@
+# Agent and local assistant configuration
+AGENTS.md
+.agents/
+.codex/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# MkDocs build output
+site/
+.cache/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+

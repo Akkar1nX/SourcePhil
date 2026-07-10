@@ -1,0 +1,61 @@
+site_name: 西方哲学史复习
+site_description: 中山大学哲学专业考研西方哲学史复习材料
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - 首页: index.md
+  - 总纲:
+      - 真题与考情: overview/exams.md
+  - 古希腊哲学:
+      - 早期希腊哲学:
+          - 总览: greek/presocratics/index.md
+          - 历史背景与材料方法: greek/presocratics/context-and-sources.md
+          - 米利都学派: greek/presocratics/milesians.md
+          - 毕达哥拉斯派与色诺芬尼: greek/presocratics/pythagoreans-and-xenophanes.md
+          - 赫拉克利特与爱利亚派: greek/presocratics/heraclitus-and-eleatics.md
+          - 多元论者与原子论: greek/presocratics/pluralists-and-atomists.md
+          - 「本原」问题比较: greek/presocratics/arche-comparison.md
