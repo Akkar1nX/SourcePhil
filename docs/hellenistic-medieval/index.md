@@ -14,7 +14,7 @@
 
 ### 经院哲学：制度化教学中的论证秩序
 
-经院哲学将在后续部分处理。它不等于「教会规定下的哲学」，也不只是托马斯·阿奎那一人的体系。随着学校和大学形成，问题（quaestio）、异议、权威文本与答辩逐渐成为制度化研究形式；亚里士多德著作经希腊文、阿拉伯文和拉丁文传译进入西欧，又改变了关于共相、知识、自然、存在和神学科学的讨论。
+经院哲学不等于「教会规定下的哲学」，也不只是托马斯·阿奎那一人的体系。随着学校和大学形成，问题（quaestio）、异议、权威文本与答辩逐渐成为制度化研究形式；亚里士多德著作经希腊文、阿拉伯文和拉丁文传译进入西欧，又改变了关于共相、知识、自然、存在和神学科学的讨论。安瑟尔谟、阿伯拉尔、波那文都拉、阿奎那、司各脱和奥卡姆对理性证明、普遍概念与自由并没有一套共同答案；艾克哈特的拉丁论著和德语讲道还显示，经院论证与灵性实践并非两个隔绝领域。
 
 ## 贯穿本编的五个问题
 
@@ -26,11 +26,13 @@
 
 第四，恶是实体、缺失还是错误意愿？斯多亚派把局部之恶放入整体天命，普罗提诺把恶与远离形式的一端联系，奥古斯丁则以善的缺失说明恶没有独立实体原因，并以意志失序解释道德恶。这个问题连接存在论、神义论和责任理论。
 
-第五，哲学共同体与政治共同体是什么关系？从希腊化王国、罗马帝国到基督教合法化和帝国末期，哲学活动始终依赖学校、友谊、赞助、城市和宗教组织。伊壁鸠鲁的「花园」、斯多亚世界公民论、修道运动和奥古斯丁的「双城」不是同一种政治方案，必须分别放回制度背景。
+第五，哲学共同体与政治共同体是什么关系？从希腊化王国、罗马帝国到基督教合法化和帝国末期，哲学活动始终依赖学校、友谊、赞助、城市和宗教组织。伊壁鸠鲁的「花园」、斯多亚世界公民论、修道运动、奥古斯丁的「双城」和中世纪大学不是同一种共同体，必须分别放回制度背景。
+
+第六，普遍知识怎样以个别事物为对象？亚里士多德把科学知识系于形式和普遍命题，波菲利留下属种是否实存的问题；阿伯拉尔转向谓述和状态，阿奎那以事物内形式和抽象连接世界与概念，司各脱提出共同本性，奥卡姆则只承认个别事物并以心灵符号解释普遍性。这条线把古代实体论、中世纪语义学和近代认识论连接起来。
 
 ## 建议阅读次序
 
-先读[希腊化时期总览](hellenistic/index.md)及其[历史与知识背景](hellenistic/context.md)，再依次阅读伊壁鸠鲁、斯多亚、怀疑主义和普罗提诺。下一单元拟依次编写「教父哲学总览」「形成背景与信仰、理性」，再进入教父传统和奥古斯丁专题。经院哲学部分以后补入同一目录。
+先读[希腊化时期总览](hellenistic/index.md)及其[历史与知识背景](hellenistic/context.md)，再依次阅读伊壁鸠鲁、斯多亚、怀疑主义和普罗提诺。随后进入[教父哲学总览](patristics/index.md)，先读历史背景和早期教父，再依次讨论奥古斯丁的知识论、创造论、意志与恩典以及双城说。最后进入[经院哲学总览](scholasticism/index.md)，先掌握学校、大学与传译背景，再读安瑟尔谟、共相问题、阿奎那及十三至十四世纪诸家。
 
 ## 基本参考依据
 
@@ -39,3 +41,5 @@
 - Lloyd P. Gerson (ed.), *The Cambridge History of Philosophy in Late Antiquity*, Cambridge University Press, 2010。
 - Frances Young, Lewis Ayres and Andrew Louth (eds.), *The Cambridge History of Early Christian Literature*, Cambridge University Press, 2004。
 - Johannes van Oort, 「Augustine」；Christian Tornau, 「Saint Augustine」；相关学派条目，*Stanford Encyclopedia of Philosophy*。
+- John Marenbon, *Medieval Philosophy: An Historical and Philosophical Introduction*, Routledge, 2007。
+- Robert Pasnau (ed.), *The Cambridge History of Medieval Philosophy*, 2 vols., Cambridge University Press, 2010。
