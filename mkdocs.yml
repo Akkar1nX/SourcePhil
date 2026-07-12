@@ -110,3 +110,64 @@ nav:
           - 迈斯特·艾克哈特: hellenistic-medieval/scholasticism/eckhart.md
           - 概念比较与考试线索: hellenistic-medieval/scholasticism/comparison.md
           - 关键争议与哲学史线索: hellenistic-medieval/scholasticism/debates-and-trajectories.md
+  - 近代哲学:
+      - 总览: modern/index.md
+      - 文艺复兴与近代转型:
+          - 总览: modern/renaissance/index.md
+          - 历史、社会与知识条件: modern/renaissance/context-humanism.md
+          - 宗教改革、政治与人的位置: modern/renaissance/religion-politics.md
+          - 自然哲学、宇宙论与新科学: modern/renaissance/nature-science.md
+          - 培根：知识改革与归纳: modern/renaissance/bacon.md
+          - 蒙田、怀疑主义与自我考察: modern/renaissance/montaigne.md
+          - 关键争议与哲学史线索: modern/renaissance/debates-and-trajectories.md
+      - 笛卡尔:
+          - 总览: modern/descartes/index.md
+          - 生平、科学背景与方法计划: modern/descartes/context-method.md
+          - 方法怀疑与「我思」: modern/descartes/doubt-cogito.md
+          - 观念、上帝与外部世界: modern/descartes/ideas-god-world.md
+          - 实体、身心区分与联合: modern/descartes/substance-mind-body.md
+          - 自然哲学、自由、情感与伦理: modern/descartes/nature-passions-ethics.md
+          - 关键争议与哲学史线索: modern/descartes/debates-and-trajectories.md
+      - 霍布斯:
+          - 总览: modern/hobbes/index.md
+          - 物体、感觉、语言与科学: modern/hobbes/mind-language-science.md
+          - 欲望、自由、契约与主权: modern/hobbes/politics.md
+          - 关键争议与真题线索: modern/hobbes/debates-and-exams.md
+      - 斯宾诺莎:
+          - 总览: modern/spinoza/index.md
+          - 实体、属性、样态与必然性: modern/spinoza/substance.md
+          - 心灵、身体与三种认识: modern/spinoza/mind-knowledge.md
+          - 情感、自由、政治与宗教: modern/spinoza/ethics-politics.md
+          - 关键争议与真题线索: modern/spinoza/debates-and-exams.md
+      - 莱布尼茨:
+          - 总览: modern/leibniz/index.md
+          - 真理、充足理由、上帝与最佳世界: modern/leibniz/truth-god.md
+          - 单子、知觉与预定和谐: modern/leibniz/monads.md
+          - 天赋、微知觉与对洛克的批评: modern/leibniz/knowledge.md
+          - 关键争议与真题线索: modern/leibniz/debates-and-exams.md
+      - 洛克:
+          - 总览: modern/locke/index.md
+          - 经验来源、观念与知识限度: modern/locke/ideas-knowledge.md
+          - 性质、实体与实在本质: modern/locke/qualities-substance.md
+          - 人格同一性: modern/locke/personal-identity.md
+          - 自然权利、财产、政府与宽容: modern/locke/politics.md
+          - 关键争议与真题线索: modern/locke/debates-and-exams.md
+      - 贝克莱:
+          - 总览: modern/berkeley/index.md
+          - 抽象观念批判与非物质主义: modern/berkeley/immaterialism.md
+          - 精神、上帝、视觉与自然科学: modern/berkeley/spirits-science.md
+          - 关键争议与真题线索: modern/berkeley/debates-and-exams.md
+      - 休谟:
+          - 总览: modern/hume/index.md
+          - 知觉、观念、关系与怀疑: modern/hume/understanding.md
+          - 因果、归纳与必然联系: modern/hume/causation.md
+          - 外部世界、自我与自由: modern/hume/self-world.md
+          - 情感、道德与正义: modern/hume/morals.md
+          - 宗教、奇迹与设计论证: modern/hume/religion.md
+          - 关键争议与真题线索: modern/hume/debates-and-exams.md
+      - 苏格兰常识哲学:
+          - 总览: modern/common-sense/index.md
+          - 里德：常识、知觉与人格: modern/common-sense/reid.md
+          - 主动能力、道德与斯图尔特的继承: modern/common-sense/agency-stewart.md
+          - 关键争议与哲学史线索: modern/common-sense/debates-and-trajectories.md
+      - 近代哲学核心问题比较: modern/core-comparisons.md
